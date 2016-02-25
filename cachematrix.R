@@ -1,5 +1,6 @@
-## Put comments here that give an overall description of what your
-## functions do
+## functions for wk3 programming assignment
+## creates a matrix that can cache the inverse if calculated. 
+
 
 ## takes a matrix and returns a list of set, get , setInverse and getInverse functions. inverse is cached.
 
